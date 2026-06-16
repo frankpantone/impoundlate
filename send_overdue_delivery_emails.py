@@ -37,7 +37,8 @@ class OverduePickupNotifier:
         'joe.tingelhoff@hertz.com',
         'caleb.yates@hertz.com',
         'kelsie.zehender@hertz.com',
-        'james.pham@hertz.com'
+        'james.pham@hertz.com',
+        'Ryan.Cappelen@hertz.com'
     ]
 
     def __init__(self, csv_file_path: str):
